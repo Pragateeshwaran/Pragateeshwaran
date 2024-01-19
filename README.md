@@ -47,7 +47,7 @@ Sivakasi, Tamil Nadu, India
 
 ## Contact Information
 
-📧 [Email](mailto:your.professional.email@example.com)
+📧 [Email](mailto:geniuspekka1808@gmail.com)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/pragateesh)
 
