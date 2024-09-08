@@ -28,14 +28,6 @@ I embrace challenges as opportunities for growth and consider myself a lifelong 
 
 ---
 
-## Experience
-
-### CodSoft
-*Intern*
-Nov 2023 - Dec 2023 · 2 mos
-India
-
----
 
 ## Education
 
