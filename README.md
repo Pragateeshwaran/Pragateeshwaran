@@ -1,31 +1,24 @@
 # Pragateesh
 
-Passionate Student | Neural Network Enthusiast | Exploring the Depths of Artificial Intelligence and Data Science
+Neural Network Enthusiast | Exploring the Depths of Artificial Intelligence and Data Science
 
 ---
 
 ## About Me
 
-I am an enthusiastic and inquisitive individual with a profound interest in technology. My curiosity about understanding the inner workings of things has fueled my passion for learning, and I am currently on a journey to build a career in machine learning. The vast possibilities within this field excite me, and I am eager to explore and contribute to its ongoing advancements.
-
-Confidence, outgoing nature, and strong leadership presence define me. I thrive as a team player, having successfully managed people in my community, and I thoroughly enjoy engaging in public speaking.
-
-Worked extensively with deep learning concepts and APIs
-
-My practical experience includes serving as a Machine Learning Intern at Codsoft. Proficient in ML libraries in Python and Matlab, I also possess strong skills in data analysis tools and have a great knowledge of deep learning concepts and APIs.
-
-I embrace challenges as opportunities for growth and consider myself a lifelong learner. As I eagerly anticipate contributing to the dynamic field of artificial intelligence, my goal is to make a positive impact on the world through my work and continuous dedication to learning.
-
----
+Welcome to my GitHub profile! I am Pragateeshwaran, a passionate deep learning developer with a focus on building innovative AI models and applications. Here, you'll find a collection of my projects showcasing my skills in various areas of machine learning, natural language processing, and computer vision.
+📚 Overview
 
 ## Top Skills
 
+- Docker
 - Deep Learning
 - Machine Learning
 - Data Structures
 - C (Programming Language)
 - Python (Programming Language)
-
+- Java
+- Cuda
 ---
 
 
